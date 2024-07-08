@@ -3,7 +3,7 @@
 	<br>
 	<div>
 		<picture>
-			<img alt="OpenSpartan Wait Times Dataset Logo" width="500px" src="media/logo.png">
+			<img alt="OpenSpartan Wait Times Dataset Logo" width="200px" src="media/logo.png">
 		</picture>
 		<br>
 	</div>
