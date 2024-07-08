@@ -42,6 +42,6 @@ There are two tables in each datasets:
 | `PlaylistMetadata`  | Outlines all playlist-related metadata, including playlist asset ID, version ID, name, description, and more. |
 | `WaitTimeSnapshots` | Captures playlist wait times, in 10 minute intervals. Data includes snapshot timestamp (PT time zone), asset ID, version ID, and wait time in seconds. |
 
-You can also analyze the data with the help of a tool like DB Browser for SQLite.
+You can also analyze the data with the help of a tool like [DB Browser for SQLite](https://sqlitebrowser.org/).
 
 ![DB Browser for SQLite used to parse the OpenSpartan Wait Times Datasets](media/db-browser-sqlite.gif)
