@@ -63,3 +63,11 @@ Yes. What I have here is the raw data - you can use it to slice and dice the met
 ### Data is captured for the US west coast. Do you have plans for capturing metrics for other time zones or regions?
 
 I am currently looking at the best ways to capture this data for other regions, but if the changes are going to be happening, it will be _after_ Anvil. The Anvil data set will contain only PT data captures.
+
+## Other tools
+
+- [OpenSpartan Workshop](https://openspartan.com/docs/workshop/guides/get-started/)
+- [OpenSpartan XUID Resolver](https://github.com/OpenSpartan/xuid-resolver)
+- [OpenSpartan Career Rank Extractor](https://github.com/OpenSpartan/career)
+
+To see the latest on supported tools and data, refer to the [official OpenSpartan site](https://openspartan.com) and [my blog](https://den.dev/tags/halo-api/).
