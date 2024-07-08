@@ -32,3 +32,16 @@ While the data is not necessarily capturing the _global_ wait times, it can be u
 | [Anvil](https://www.halowaypoint.com/news/anvil-operation-launch)           | July 2, 2024 - July 30, 2024  | _In progress_                  | Data collection is currently in progress.                          |
 
 ## Analyzing the data
+
+Every single dataset available in this repository is a [SQLite database](https://www.sqlite.org/). You can query it from any language or framework that supports SQLite, and even make pretty graphs with [Jupyter notebooks](https://jupyter.org/) and [Python](https://www.python.org/).
+
+There are two tables in each datasets:
+
+| Table | Description |
+|:------|:------------|
+| `PlaylistMetadata`  | Outlines all playlist-related metadata, including playlist asset ID, version ID, name, description, and more. |
+| `WaitTimeSnapshots` | Captures playlist wait times, in 10 minute intervals. Data includes snapshot timestamp (PT time zone), asset ID, version ID, and wait time in seconds. |
+
+You can also analyze the data with the help of a tool like DB Browser for SQLite.
+
+![DB Browser for SQLite used to parse the OpenSpartan Wait Times Datasets](media/db-browser-sqlite.gif)
