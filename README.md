@@ -45,3 +45,17 @@ There are two tables in each datasets:
 You can also analyze the data with the help of a tool like [DB Browser for SQLite](https://sqlitebrowser.org/).
 
 ![DB Browser for SQLite used to parse the OpenSpartan Wait Times Datasets](media/db-browser-sqlite.gif)
+
+## FAQ
+
+### I see that some data is missing in the Banished Honor and Tenrai IV datasets. What's up with that?
+
+During the data capture I was still stabilizing the tool against issues that resulted in data misses. That resulted in some gaps. Moving forward (starting with the Anvil operation), those gaps should be minimal (if any) and contain the full spectrum of data in 10 minute intervals.
+
+### Can you share the tool that captured this data?
+
+Planning on doing this in the future. For the time being, you can familiarize yourself with the process [on my blog](https://den.dev/blog/halo-infinite-playlist-wait-time-api/).
+
+### Can I use this data to render wait time graphs?
+
+Yes. What I have here is the raw data - you can use it to slice and dice the metrics as you see fit.
