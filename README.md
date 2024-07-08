@@ -27,8 +27,8 @@ While the data is not necessarily capturing the _global_ wait times, it can be u
 
 | 🎖️ Event/Operation | 📆 Timeframe                     | 📦 Dataset                        | 📝 Notes                                                               |
 |:----------------|:------------------------------|:-------------------------------|:-------------------------------------------------------------------|
-| Banished Honor  | April 30, 2024 - June 4, 2024 | `banished-honor-wait-times.db` | Data has a few gaps as data collection tool issues were addressed. |
-| Tenrai IV       | June 4, 2024 - July 2, 2024   | `tenrai-iv-wait-times.db`      | Data has a few gaps as data collection tool issues were addressed. |
-| Anvil           | July 2, 2024 - July 30, 2024  | _In progress_                  | Data collection is currently in progress.                          |
+| [Banished Honor](https://www.halowaypoint.com/news/banished-honor-operation-launch) | April 30, 2024 - June 4, 2024 | [`banished-honor-wait-times.db`](datasets/banished-honor-wait-times.db) | Data has a few gaps as data collection tool issues were addressed. |
+| [Tenrai IV](https://www.halowaypoint.com/news/tenrai-iv-operation-launch) | June 4, 2024 - July 2, 2024   | [`tenrai-iv-wait-times.db`](datasets/tenrai-iv-wait-times.db)      | Data has a few gaps as data collection tool issues were addressed. |
+| [Anvil](https://www.halowaypoint.com/news/anvil-operation-launch)           | July 2, 2024 - July 30, 2024  | _In progress_                  | Data collection is currently in progress.                          |
 
 ## Analyzing the data
