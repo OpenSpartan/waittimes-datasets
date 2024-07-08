@@ -12,8 +12,6 @@
 		An open-source dataset of Halo Infinite wait times powered by <a href="https://openspartan.com">OpenSpartan</a> tooling.
 	</p>
 	<br>
-	<br>
-	<br>
 </div>
 
 
