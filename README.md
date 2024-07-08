@@ -59,3 +59,7 @@ Planning on doing this in the future. For the time being, you can familiarize yo
 ### Can I use this data to render wait time graphs?
 
 Yes. What I have here is the raw data - you can use it to slice and dice the metrics as you see fit.
+
+### Data is captured for the US west coast. Do you have plans for capturing metrics for other time zones or regions?
+
+I am currently looking at the best ways to capture this data for other regions, but if the changes are going to be happening, it will be _after_ Anvil. The Anvil data set will contain only PT data captures.
