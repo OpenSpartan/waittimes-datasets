@@ -24,10 +24,11 @@ While the data is not necessarily capturing the _global_ wait times, it can be u
 ## Datasets
 
 | 🎖️ Event/Operation | 📆 Timeframe                     | 📦 Dataset                        | 📝 Notes                                                               |
-|:----------------|:------------------------------|:-------------------------------|:-------------------------------------------------------------------|
-| [Banished Honor](https://www.halowaypoint.com/news/banished-honor-operation-launch) | April 30, 2024 - June 4, 2024 | [`banished-honor-wait-times.db`](datasets/banished-honor-wait-times.db) | Data has a few gaps as data collection tool issues were addressed. |
-| [Tenrai IV](https://www.halowaypoint.com/news/tenrai-iv-operation-launch) | June 4, 2024 - July 2, 2024   | [`tenrai-iv-wait-times.db`](datasets/tenrai-iv-wait-times.db)      | Data has a few gaps as data collection tool issues were addressed. |
-| [Anvil](https://www.halowaypoint.com/news/anvil-operation-launch)           | July 2, 2024 - July 30, 2024  | _In progress_                  | Data collection is currently in progress.                          |
+|:------------------------------------------------------------------------------------|:----------------------------------|:------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| [Banished Honor](https://www.halowaypoint.com/news/banished-honor-operation-launch) | April 30, 2024 - June 4, 2024     | [`banished-honor-wait-times.db`](datasets/banished-honor-wait-times.db) | Data has a few gaps as data collection tool issues were addressed. |
+| [Tenrai IV](https://www.halowaypoint.com/news/tenrai-iv-operation-launch)           | June 4, 2024 - July 2, 2024       | [`tenrai-iv-wait-times.db`](datasets/tenrai-iv-wait-times.db)           | Data has a few gaps as data collection tool issues were addressed. |
+| [Anvil](https://www.halowaypoint.com/news/anvil-operation-launch)                   | July 2, 2024 - July 30, 2024      | [`anvil-wait-times.db`](datasets/anvil-wait-times.db)                   | Data collection complete. Minimal gaps.                            |
+| [Fleetcom](https://www.halowaypoint.com/news/fleetcom-operation-launch)             | July 30, 2024 - September 3, 2024 | N/A 																	| _Data collection in progress._									 |
 
 ## Analyzing the data
 
