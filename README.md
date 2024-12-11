@@ -31,7 +31,7 @@ While the data is not necessarily capturing the _global_ wait times, it can be u
 | [Fleetcom](https://www.halowaypoint.com/news/fleetcom-operation-launch)             | July 30, 2024 - September 3, 2024   | [`fleetcom-wait-times.db`](datasets/fleetcom-wait-times.db) 			  | ✅ Data collection complete. Minimal gaps.							  |
 | [Champions](https://www.youtube.com/watch?v=AOjtUrRlxBQ)                            | September 3, 2024 - October 8, 2024 | [`champions-wait-times.db`](datasets/champions-wait-times.db)			  | ✅ Data collection complete. Minimal gaps.  	                          |
 | [Haloween](https://www.halowaypoint.com/news/haloween-horrors)                      | October 8, 2024 - November 5, 2024  | [`haloween-wait-times.db`](datasets/haloween-wait-times.db)             | ✅ Data collection complete. Minimal gaps.             	              |
-| [Great Journey](https://www.halowaypoint.com/news/great-journey-operation-launch)   | November 5, 2024 - December 2, 2024 | N/A                                                                     | 🔜 Data collection in progress.                                       |
+| [Great Journey](https://www.halowaypoint.com/news/great-journey-operation-launch)   | November 5, 2024 - December 2, 2024 | N/A                                                                     | ✅ Data collection complete. Some gaps.                               |
 
 ## Analyzing the data
 
