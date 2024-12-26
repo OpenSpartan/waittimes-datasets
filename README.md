@@ -29,9 +29,10 @@ While the data is not necessarily capturing the _global_ wait times, it can be u
 | [Tenrai IV](https://www.halowaypoint.com/news/tenrai-iv-operation-launch)           | June 4, 2024 - July 2, 2024         | [`tenrai-iv-wait-times.db`](datasets/tenrai-iv-wait-times.db)           | ✅ Data has a few gaps as data collection tool issues were addressed. |
 | [Anvil](https://www.halowaypoint.com/news/anvil-operation-launch)                   | July 2, 2024 - July 30, 2024        | [`anvil-wait-times.db`](datasets/anvil-wait-times.db)                   | ✅ Data collection complete. Minimal gaps.                            |
 | [Fleetcom](https://www.halowaypoint.com/news/fleetcom-operation-launch)             | July 30, 2024 - September 3, 2024   | [`fleetcom-wait-times.db`](datasets/fleetcom-wait-times.db) 			  | ✅ Data collection complete. Minimal gaps.							  |
-| [Champions](https://www.youtube.com/watch?v=AOjtUrRlxBQ)                            | September 3, 2024 - October 8, 2024 | [`champions-wait-times.db`](datasets/champions-wait-times.db)			  | ✅ Data collection complete. Minimal gaps.  	                          |
+| [Champions](https://www.youtube.com/watch?v=AOjtUrRlxBQ)                            | September 3, 2024 - October 8, 2024 | [`champions-wait-times.db`](datasets/champions-wait-times.db)			  | ✅ Data collection complete. Minimal gaps.  	                      |
 | [Haloween](https://www.halowaypoint.com/news/haloween-horrors)                      | October 8, 2024 - November 5, 2024  | [`haloween-wait-times.db`](datasets/haloween-wait-times.db)             | ✅ Data collection complete. Minimal gaps.             	              |
 | [Great Journey](https://www.halowaypoint.com/news/great-journey-operation-launch)   | November 5, 2024 - December 2, 2024 | [`great-journey-wait-times.db`](datasets/great-journey-wait-times.db)   | ✅ Data collection complete. Some gaps.                               |
+| [Snowbound](https://www.halowaypoint.com/news/snowbound-operation-launch)           | December 2, 2024 - January 7, 2025  | 📈 Data collection in progress.                                         | 📈 Data collection in progress.                                       |
 
 ## Analyzing the data
 
