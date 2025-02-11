@@ -33,7 +33,8 @@ While the data is not necessarily capturing the _global_ wait times, it can be u
 | [Haloween](https://www.halowaypoint.com/news/haloween-horrors)                      | October 8, 2024 - November 5, 2024  | [`haloween-wait-times.db`](datasets/haloween-wait-times.db)             | ✅ Data collection complete. Minimal gaps.             	              |
 | [Great Journey](https://www.halowaypoint.com/news/great-journey-operation-launch)   | November 5, 2024 - December 2, 2024 | [`great-journey-wait-times.db`](datasets/great-journey-wait-times.db)   | ✅ Data collection complete. Minimal gaps.                            |
 | [Snowbound](https://www.halowaypoint.com/news/snowbound-operation-launch)           | December 2, 2024 - January 7, 2025  | [`snowbound-wait-times.db`](datasets/snowbound-wait-times.db)           | ✅ Data collection complete. Minimal gaps.                            |
-| [Brute Force](https://www.halowaypoint.com/news/brute-force-operation-launch)       | January 7, 2025 - February 4, 2025  | 🐜 Data collection in progress. See `dev` branch for latest snapshot.   | 🐜 Data collection in progress. See `dev` branch for latest snapshot. |
+| [Brute Force](https://www.halowaypoint.com/news/brute-force-operation-launch)       | January 7, 2025 - February 4, 2025  | [`brute-force-wait-times.db`](datasets/brute-foce-wait-times.db)        | ✅ Data collection complete. Minimal gaps.                            |
+| [Frontlines](https://www.halowaypoint.com/news/frontlines-operation-launch)         | February 4, 2025 - March 11, 2025   | N/A                                                                     | 🐜 Data collection in progress. See `dev` branch.                     |
 
 ## Analyzing the data
 
